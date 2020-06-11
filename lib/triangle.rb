@@ -15,7 +15,8 @@ class Triangle
     :isosceles
   else
     :scalar
-  end  
+  end 
+end
   
   
 end
