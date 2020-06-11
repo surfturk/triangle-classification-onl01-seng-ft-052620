@@ -18,6 +18,6 @@ end
   end 
 end
   
-  class
+  class Tr
   
 end
