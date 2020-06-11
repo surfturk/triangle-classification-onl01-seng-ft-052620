@@ -6,4 +6,12 @@ class Triangle
   self.length2 = length2
   self.length3 = length3
   
+  
+  
+  def kind
+    
+    
+  end  
+  
+  
 end
