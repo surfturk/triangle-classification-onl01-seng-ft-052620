@@ -14,7 +14,7 @@ end
     elsif a == b || b == c || c == a
     :isosceles
   else
-    :scalane
+    :scalene
   end 
 end
   
