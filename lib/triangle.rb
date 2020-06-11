@@ -3,6 +3,8 @@ class Triangle
   
   def initialize(a, b, c)
     if a == 0 || b == 0 || c == 0
+      raise TriangleError
+    end  
   self.a = a
   self.b = b
   self.c = c
