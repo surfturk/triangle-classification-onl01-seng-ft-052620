@@ -9,7 +9,7 @@ class Triangle
   
   
   def kind
-    if a == b
+    if a == b & 
     
   end  
   
