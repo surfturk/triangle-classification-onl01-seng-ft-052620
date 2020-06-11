@@ -9,7 +9,7 @@ class Triangle
   
   
   def kind
-    
+    if length1 = 
     
   end  
   
