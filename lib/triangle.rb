@@ -2,7 +2,7 @@ class Triangle
   attr_accessor :a, :b, :c
   
   def initialize(a, b, c)
-    if a == 0 || b == 0 || c == 0
+    if a == 0 || b == 0 || c <= 0
       raise TriangleError
     end  
   self.a = a
