@@ -2,6 +2,7 @@ class Triangle
   attr_accessor :a, :b, :c
   
   def initialize(a, b, c)
+    if a == 0 || b == 0 || c == 0
   self.a = a
   self.b = b
   self.c = c
