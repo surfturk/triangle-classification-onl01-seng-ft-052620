@@ -18,5 +18,6 @@ end
   end 
 end
   
+  class
   
 end
