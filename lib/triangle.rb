@@ -5,6 +5,10 @@ class Triangle
     if a == 0 || b == 0 || c <= 0
       raise TriangleError
     end  
+    if a + b < c || c + b < a || c + a < b
+      raise TriangleError
+    end  
+    
   self.a = a
   self.b = b
   self.c = c
