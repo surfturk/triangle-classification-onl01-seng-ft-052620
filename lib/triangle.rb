@@ -5,7 +5,7 @@ class Triangle
   self.a = a
   self.b = b
   self.c = c
-  
+end
   
   
   def kind
